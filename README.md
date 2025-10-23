@@ -19,7 +19,7 @@ Before running the project, ensure you have installed:
 - [Node.js](https://nodejs.org/) (v18 or higher)
 - [npm](https://www.npmjs.com/)
 - [Git](https://git-scm.com/)
-- The [CrudParking Backend](https://github.com/Vanessa55-rgb/crudpark-csharp-back) running locally on `http://localhost:5000`
+- The [CrudParking Backend](https://github.com/Vanessa55-rgb/crudpark-csharp-back.git) running locally on `http://localhost:5000`
 
 ---
 
